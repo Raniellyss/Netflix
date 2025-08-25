@@ -13,19 +13,19 @@ function InfoPrinc(){
 
             <div className="logoNet">
                 <SiNetflix className="logo"/>
-                <span className="nomeFilm">F I L M E</span>
+                <span className="nomeFilm">S É R I E</span>
             </div>
 
             <div className="title">
-                <span className="nomeFilme1"> Luta Pela Fé </span>
-                <span className="nomeFilme2">A História do Padre Stu</span>
+                <span className="nomeFilme1">Outer Banks </span>
+                <span className="nomeFilme2">O jovem John convoca seus melhores amigos para procurarem por um tesouro ligado ao desaparecimento de seu pai. Aos poucos, o grupo vai entrando em uma perigosa trama de segredos e perigos.</span>
             </div>
 
             <div className="info">
 
                 <div className="option">
                     <div className="assistir">
-                        <FaPlay /> <span> Assistir</span>
+                        <FaPlay /> <span> Próximo Episódio</span>
                     </div>
                     
                     <div className="mais">

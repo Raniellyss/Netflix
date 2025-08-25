@@ -1,9 +1,10 @@
-import FilmeBanner from "../FilmeBanner/FilmeBanner"
-import FilmeComentarios from "../FilmeComentarios/FilmeComentarios"
-import FilmeHeader from "../FilmeHeader/FilmeHeader"
-import FilmeDetalhes from "../FilmeDetalhes/FilmeDetalhes"
-import FilmePlaylist from "../FilmePlaylist/FilmePlaylist"
-import FilmesRelacionados from "../FilmesRelacionados/FilmesRelacionados"
+import FilmeBanner from '../Components/FilmeBanner';
+import FilmeComentarios from '../Components/FilmeComentarios';
+import FilmeHeader from '../Components/FilmeHeader';
+import FilmeDetalhes from '../Components/FilmeDetalhes';
+import FilmePlaylist from '../Components/FilmePlaylist';
+import FilmesRelacionados from '../Components/FilmesRelacionados';
+
 
 export default function FilmePage({ filme }) {
   return (
